@@ -1,1 +1,2 @@
-print(www)
+print (www)
+print (diman)
